@@ -1,5 +1,5 @@
 # Downloadyze
-<img src="https://raw.githubusercontent.com/sixcious/downloadyze/main/assets/icon-dark.png?sanitize=true" width="128" height="128" alt="Downloadyze" title="Downloadyze">
+<img src="https://raw.githubusercontent.com/sixcious/downloadyze/main/assets/icon.png?sanitize=true" width="128" height="128" alt="Downloadyze" title="Downloadyze">
 <br><br>
 
 ## Available For
