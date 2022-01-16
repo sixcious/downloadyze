@@ -54,5 +54,5 @@ Downloadyze does *not* track you. It does *not* use analytic services. It does *
 <a href="https://github.com/sixcious/downloadyze/blob/main/LICENSE">View License</a>
 
 ## Copyright
-Downloadyze
+Downloadyze  
 Copyright &copy; 2020 <a href="https://github.com/sixcious" target="_blank">Roy Six</a>
