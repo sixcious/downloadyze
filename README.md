@@ -3,7 +3,7 @@
 <br><br>
 
 ## Available For
-<a href="https://chrome.google.com/webstore/detail/downloadyze/" title="Chrome Web Store Download"><img src="https://raw.githubusercontent.com/sixcious/downloadyze/main/assets/chrome.svg?sanitize=true" height="64" alt="Google Chrome"></a>
+<a href="https://chrome.google.com/webstore/detail/downloadyze/bhmadppkfhoofholcdndbcodfomajacf" title="Chrome Web Store Download"><img src="https://raw.githubusercontent.com/sixcious/downloadyze/main/assets/chrome.svg?sanitize=true" height="64" alt="Google Chrome"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://addons.mozilla.org/firefox/addon/downloadyze/" title="Firefox Addon Download"><img src="https://raw.githubusercontent.com/sixcious/downloadyze/main/assets/firefox.svg?sanitize=true" height="64" alt="Mozilla Firefox"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
