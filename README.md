@@ -12,7 +12,7 @@
 <br><br>
 
 ## Important Note
-Downloadyze is currently in beta. Unfortunately, this means it might contain a few bugs and it might not work on every website you try it on! But I really want you to be 100% happy with it, so if something isn't working right, or if there's a feature you think is missing, please feel free to open an issue me and give me a chance to fix it and I promise I will.
+Downloadyze is currently in beta. Unfortunately, this means it might contain a few bugs and it might not work on every website you try it on! But I really want you to be 100% happy with it, so if something isn't working right, or if there's a feature you think is missing, please feel free to open an issue and give me a chance to fix it and I promise I will.
 
 ## About
 Downloadyze is an extension in beta that can download simple files from a single page or multiple pages automatically. It supports 4 Multi Actions and 7 Download Strategies to help you pick which URLs to download. You can enter regular expression filters to include or exclude URLs to download. Downloadyze also understands both CSS Selectors and XPath expressions for many tasks, such as finding next links and filtering URLs.
