@@ -31,6 +31,17 @@ Downloadyze is an extension in beta that can download simple files from a single
 ## Help Guide
 [View the Help Guide!](https://github.com/sixcious/downloadyze/wiki/Help)
 
+## FAQ
+
+#### Why is there a 5 second minimum for Auto?
+This isn't a technical limitation but is really to protect both you and the web server. Anything less than 5 seconds isn't going to give you enough time to respond and stop Downloadyze from running before it goes to the next page. Also, while not technically needed, 5 seconds gives enough extra time to help ensure the page has "fully" loaded (like dynamic content) so the content script can execute. Finally, this constraint is in place so that you don't overburden the web server (and to help prevent you from getting IP banned!).
+
+#### Where's the source code?
+Because it's still very new, Downloadyze is currently proprietary. I do want to make it open source in the future, though (I thank you for your understanding!).
+
+#### Why is the production version's source code minified?
+I use [Terser](https://github.com/terser/terser) to minify the source code for production releases that I upload to your browser's web store. I mainly do this because I write a lot of comments and `console.log()` statements for debugging that you don't want to have and it cuts the file size down significantly. This is actually a common practice, and is what several popular open source extensions do. That said, you are welcome to view a "Pretty Print" of the source code by using a [CRX Viewer](https://robwu.nl/crxviewer/) to inspect it before installing it.
+
 ## Permissions Justification
 - `Read and change all your data on the websites you visit` - Downloadyze needs to request this permission so that it can download files from multiple pages automatically (essentially, so it can run its content script automatically on the pages you want it to).
 - `Manage your downloads` - Downloadyze needs to request this permission so it can download files.
