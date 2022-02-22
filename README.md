@@ -34,10 +34,13 @@ Downloadyze is an extension in beta that can download simple files from a single
 ## FAQ
 
 #### Why is there a 5 second minimum for Auto?
-This isn't a technical limitation but is really to protect both you and the web server. Anything less than 5 seconds isn't going to give you enough time to respond and stop Downloadyze from running before it goes to the next page. Also, while not technically needed, 5 seconds gives enough extra time to help ensure the page has "fully" loaded (like dynamic content) so the content script can execute. Finally, this constraint is in place so that you don't overburden the web server (and to help prevent you from getting IP banned!).
+This isn't a technical limitation but is really to protect both you and the web server. Anything less than 5 seconds isn't going to give you enough time to respond and stop Downloadyze from running before it goes to the next page. Also, while not technically needed, 5 seconds gives enough extra time to help ensure the page has "fully" loaded (like dynamic content) so the content script can execute. Finally, this constraint is in place so that you don't overburden the web server (and to help prevent you from getting IP banned).
+
+#### What is the minimum browser version (and why is it to so high)?
+Downloadyze currently requires Chrome/Edge/Firefox `90` and higher to run. I tend to update the minimum browser version about once a year so I can use the latest and greatest ECMAScript features without worry. It also significantly saves in my testing time in having to maintain older Chromium builds. In the past, I used to offer "modified" builds with a lower minimum version, but I can no longer do this. If your browser doesn't support Downloadyze, I'm afraid you'll have to use another app/extension (sorry).
 
 #### Where's the source code?
-Because it's still very new, Downloadyze is currently proprietary. I do want to make it open source in the future, though (I thank you for your understanding!).
+Because it's still very new, Downloadyze is currently proprietary. I do want to make it open source in the future, though (I thank you for your understanding).
 
 #### Why is the production version's source code minified?
 I use [Terser](https://github.com/terser/terser) to minify the source code for production releases that I upload to your browser's web store. I mainly do this because I write a lot of comments and `console.log()` statements for debugging that you don't want to have and because it cuts down the file size significantly. That said, you can always view a "Pretty Print" of the source code by using a [CRX Viewer](https://robwu.nl/crxviewer/) to inspect it before installing it.
