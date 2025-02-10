@@ -51,6 +51,9 @@ I use [Terser](https://github.com/terser/terser) to minify the source code for p
 ## Privacy Policy
 Downloadyze does *not* track you. It does *not* use analytic services. It does *not* collect any data from your device or computer. All your data is stored locally on your device. Your data is *your* data.
 
+## Contributing
+Thank you for considering to contribute! The best way you can help me is to leave a review on the [Chrome Web Store](https://chromewebstore.google.com/detail/downloadyze/bhmadppkfhoofholcdndbcodfomajacf/reviews), [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/downloadyze/ophmdneebjdbdafjgobhicpefoiakpac), or [Mozilla Firefox Add-ons](https://addons.mozilla.org/firefox/addon/downloadyze/). I really appreciate your support.
+
 ## License
 <a href="https://github.com/sixcious/downloadyze/blob/main/LICENSE">View License</a>
 
