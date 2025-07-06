@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/sixcious/assets/main/repository/downloadyze/icon.svg?sanitize=true" width="128" height="128" alt="Downloadyze" title="Downloadyze">
 
 ## Available For
-<a href="https://chromewebstore.google.com/detail/downloadyze/bhmadppkfhoofholcdndbcodfomajacf" title="Chrome Web Store Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/chrome.svg?sanitize=true" height="64" alt="Google Chrome"></a>
+<a href="https://chromewebstore.google.com/detail/downloadyze/bhmadppkfhoofholcdndbcodfomajacf" title="Chrome Web Store Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/chrome.svg?sanitize=true" width="64" height="64" alt="Google Chrome"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://microsoftedge.microsoft.com/addons/detail/downloadyze/ophmdneebjdbdafjgobhicpefoiakpac" title="Microsoft Edge Add-ons Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/edge.svg?sanitize=true" height="64" alt="Microsoft Edge"></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/downloadyze/ophmdneebjdbdafjgobhicpefoiakpac" title="Microsoft Edge Add-ons Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/edge.svg?sanitize=true" width="64" height="64" alt="Microsoft Edge"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://addons.mozilla.org/firefox/addon/downloadyze/" title="Firefox Add-ons Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/firefox.svg?sanitize=true" height="64" alt="Mozilla Firefox"></a>
+<a href="https://addons.mozilla.org/firefox/addon/downloadyze/" title="Firefox Add-ons Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/firefox.svg?sanitize=true" width="64" height="64" alt="Mozilla Firefox"></a>
 
 ## Important
 Downloadyze contains some experimental ideas and features. Unfortunately, this means it might contain a few bugs and it might not work on every website you try it on! But I really want you to be 100% happy with it, so if something isn't working right, or if there's a feature you think is missing, please feel free to open an issue and give me a chance to fix it and I promise I will.
