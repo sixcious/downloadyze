@@ -8,6 +8,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://addons.mozilla.org/firefox/addon/downloadyze/" title="Firefox Add-ons Download"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/firefox.svg?sanitize=true" width="64" height="64" alt="Mozilla Firefox"></a>
 
+
+## Important Note About Version 5 (September 2025)
+When you update Downloadyze to Version 5, it will become disabled and it will need to request an additional permission. This is an honest request and the permission is in order to allow it to be able to convert web pages into PDFs and save them for you. Please see this [GitHub Issue](https://github.com/sixcious/downloadyze/issues/26) for more information. I'm very sorry for the inconvenience caused. Thank you so much for your understanding.
+
 ## Important
 Downloadyze contains some experimental ideas and features. Unfortunately, this means it might contain a few bugs and it might not work on every website you try it on! But I really want you to be 100% happy with it, so if something isn't working right, or if there's a feature you think is missing, please feel free to open an issue and give me a chance to fix it and I promise I will.
 
