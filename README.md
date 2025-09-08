@@ -40,7 +40,7 @@ Downloadyze is a simple downloader that can download files from a single page or
 This isn't a technical limitation but is really to protect both you and the web server. Anything less than 5 seconds isn't going to give you enough time to respond and stop Downloadyze from running before it goes to the next page. Also, more importantly, 5 seconds gives enough extra time to help ensure the page has "fully" loaded (like dynamic content) so the content script can execute. Finally, this constraint is in place so that you don't overburden the web server (and to help prevent you from getting IP banned).
 
 #### What is the minimum browser version (and why is it to so high)?
-The current minimum browser version is Chrome/Edge/Firefox `128`. I usually update the minimum browser version every time I do a release so I can use the latest and greatest ECMAScript features without worry. If your browser doesn't support it, I'm afraid you'll have to use another app/extension (sorry!).
+The current minimum browser version is Chrome/Edge/Firefox `130`. I usually update the minimum browser version every time I do a release so I can use the latest and greatest ECMAScript features without worry. If your browser doesn't support it, I'm afraid you'll have to use another app/extension (sorry!).
 
 #### Why is the production version's source code minified?
 I use [Terser](https://github.com/terser/terser) to minify the source code for production releases that I upload to your browser's web store. I mainly do this because I write a lot of comments and `console.log()` statements for debugging and because it cuts down the file size significantly.
