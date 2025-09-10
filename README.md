@@ -51,6 +51,7 @@ Because it's still very new, Downloadyze is currently proprietary. I may make it
 ## Permissions Justification
 - `Read and change all your data on the websites you visit` - Downloadyze needs to request this permission so that it can download files from multiple pages automatically (essentially, so it can run its content script automatically on the pages you want it to).
 - `Manage your downloads` - Downloadyze needs to request this permission so it can download files.
+- `Access the page debugger backend` - Downloadyze needs to request this permission so it can use the browser's debugger command to convert web pages into PDFs and save them for you.
 
 ## Privacy Policy
 Downloadyze does *not* track you. It does *not* use analytic services. It does *not* collect any data from your device or computer. All your data is stored locally on your device. Your data is *your* data.
